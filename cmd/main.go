@@ -9,7 +9,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"gopkg.in/yaml.v3"
 
-	"github.com/Reverse-Labs/webmon"
+	"github.com/rtgnx/webmon"
 )
 
 func main() {

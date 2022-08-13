@@ -1,4 +1,4 @@
-module github.com/Reverse-Labs/webmon
+module github.com/rtgnx/webmon
 
 go 1.19
 
