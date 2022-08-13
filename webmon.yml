@@ -1,0 +1,3 @@
+- target: "https://google.com/test"
+  proto: http
+  interval: 2s
